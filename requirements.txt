@@ -6,3 +6,6 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+streamlit
+pillow
+streamlit-drawable-canvas
